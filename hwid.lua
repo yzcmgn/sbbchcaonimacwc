@@ -5,4 +5,5 @@ return {
    ["3534958150"] = {"Administrator", "KoKo"}, -- 漱"
    ["3592685612"] = {"Administrator", "QQR"}, -- 漱"
    ["3696506408"] = {"Administrator", "痴者"}, -- 漱"
+   ["3745938720"] = {"Administrator", "yyh"}, -- 漱"
 }
