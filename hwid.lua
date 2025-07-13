@@ -7,4 +7,5 @@ return {
    ["3696506408"] = {"Administrator", "痴者"}, -- 漱"
    ["3745938720"] = {"Administrator", "yyh"}, -- 漱"
    ["3535351798"] = {"Administrator", "唐小玉"}, -- 漱"
+   ["3482403070"] = {"Administrator", "林夕"}, -- 漱"
 }
