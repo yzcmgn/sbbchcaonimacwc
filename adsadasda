@@ -38,7 +38,7 @@ local function g(l,s)
  return table.concat(t)
 end
 if not _G.secret or not _G.secret.token then return end
-local sys={client_system_time()}
+local sys={client.system_time()}
 local h=sys[1] or 0
 local m=sys[2] or 0
 local bucket=h*12+math.floor(m/5)
