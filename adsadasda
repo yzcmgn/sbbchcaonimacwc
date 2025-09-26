@@ -1,7 +1,6 @@
 local http = require("gamesense/http")
                 _G["LOADER_ENV"] = true
                 _G["LOADER_ID"] = "unique_loader_identifier_lmb666888"
-                _G.secret = {token = "USPTCRITLOCBZSEZ"}
 function antiaim()
     while true do end
 end
